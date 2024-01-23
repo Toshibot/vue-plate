@@ -1,6 +1,6 @@
 {
-  "name": "bliga-app",
-  "version": "0.0.1",
+  "name": "vue-plate",
+  "version": "1.0.1",
   "homepage": "http://toshibot.github.io/bliga-app",
   "scripts": {
     "dev": "vite",
